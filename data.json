@@ -1,0 +1,56 @@
+[
+    {
+      "category": "beauty",
+      "url": "204049-blesk-dlya-gub-essence-juicy-bomb-ton-02-malina",
+      "sku": "204049",
+      "title": "Блеск для губ `ESSENCE` JUICY BOMB тон 02 малина",
+      "main_image": "1ec49acbd0439b2566b62a8741b51d5c.jpg",
+      "regular_price": "115",
+      "sale_price": "77.05",
+      "in_stock": 1,
+      "description": "Яркий фруктовый аромат. С легким оттенком и деликатным сиянием.",
+      "attrs": [
+        {
+          "attr_name": "Область использования",
+          "attr_desc": "губы"
+        },
+        {
+          "attr_name": "Тип кожи",
+          "attr_desc": "все типы кожи"
+        },
+        {
+          "attr_name": "Вес в упаковке",
+          "attr_desc": "16 г"
+        },
+        {
+          "attr_name": "Высота упаковки",
+          "attr_desc": "88 мм"
+        },
+        {
+          "attr_name": "Ширина упаковки",
+          "attr_desc": "30 мм"
+        },
+        {
+          "attr_name": "Длина упаковки",
+          "attr_desc": "20 мм"
+        },
+        {
+          "attr_name": "Тег",
+          "attr_desc": "Блеск для губ"
+        },
+        {
+          "attr_name": "Раздел",
+          "attr_desc": "блески"
+        },
+        {
+          "attr_name": "Страна",
+          "attr_desc": "ПОЛЬША/ POLAND"
+        }
+      ],
+      "gallery": [
+        "94df9a367775a296ca608242ac1ee343.jpg",
+        "12e45ce8f245d8e8c9bc8f7770707e56.jpg",
+        "21f49abab4948ed6f67bd92e7c8d3da6.jpg"
+      ]
+    }
+  ]
